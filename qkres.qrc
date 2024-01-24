@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="shadow">img/window_shadow.png</file>
+        <file alias="btclose_hover">img/btnCloseWnd_hover.png</file>
+        <file alias="btclose">img/btnCloseWnd_wbk_normal.png</file>
+        <file alias="btMin_hover">img/btnMinWnd_wbk_hover.png</file>
+        <file alias="btMin">img/btnMinWnd_wbk_normal.png</file>
+        <file>img/big_logo.png</file>
+        <file alias="shadow_bk">img/bkgAnchorActionWnd.png</file>
+        <file>img/logo.ico</file>
+    </qresource>
+    <qresource prefix="/lng">
+        <file alias="zh-cn">lng/zh-cn.qm</file>
+    </qresource>
+</RCC>
